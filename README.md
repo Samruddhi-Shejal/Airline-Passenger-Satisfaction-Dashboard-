@@ -142,4 +142,4 @@ Slicers enable dynamic filtering by:
 ## 6. Screenshots / Demo
 
 ### Dashboard Preview
-
+https://github.com/Samruddhi-Shejal/Airline-Passenger-Satisfaction-Dashboard-/blob/main/Landing%20Page.png
